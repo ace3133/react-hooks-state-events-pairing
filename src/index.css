@@ -10,3 +10,6 @@ body {
 .App {
   text-align: center;
 }
+.title {
+  margin-bottom: 18px; /* Add margin to create space between title and VideoPlayer */
+}
